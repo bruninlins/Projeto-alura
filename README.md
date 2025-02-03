@@ -54,9 +54,9 @@ Clone este repositório ou baixe os arquivos.
 
 Abra o arquivo index.html em um navegador de sua preferência.
 
+<br>
+
 <h2>Contato 📞</h2>
 
 Caso tenha alguma dúvida ou sugestão, fique à vontade para entrar em contato comigo!
 E caso você queira acessar o site para ter uma visibilidade melhor: <a href="https://projeto-alura-drab-one.vercel.app/">Site</a></div>
-
-Desenvolvido por Bruno Torres 💻

@@ -79,7 +79,11 @@ body{
 
 .secundario{
   align-items: center;
-  margin: 0 10em;
+  margin: 10em 10em;
+}
+
+.secundario__tres{
+  margin: 0 0 -20em;
 }
 
 .descricao__titulo{
